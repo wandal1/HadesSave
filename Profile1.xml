@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigOptions>
+  <LastPatchNoteRevisionViewed>17192</LastPatchNoteRevisionViewed>
+  <NewUpdateSoundRevisionViewed>17192</NewUpdateSoundRevisionViewed>
+  <Subtitles>true</Subtitles>
+  <TwitchRefreshToken />
+  <UseGamepadGlyphs>true</UseGamepadGlyphs>
+  <ValidCheckpoint>false</ValidCheckpoint>
+  <X>1920</X>
+  <Y>1080</Y>
+</ConfigOptions>

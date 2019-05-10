@@ -1,9 +1,9 @@
 === START ===
-D:\GMS\EpicStore\Hades\x64\Hades.exe /c=..\ /DirectLoadShell=true -AUTH_LOGIN=unused -AUTH_PASSWORD=0bcd8716a3f74e41823d5e39ffd24908 -AUTH_TYPE=exchangecode -epicapp=Min -epicenv=Prod -EpicPortal -epicusername=Zikoko -epicuserid=d28a2eadf7304ca78886fd69e416f6a4 -epiclocale=en-US
+D:\GMS\EpicStore\Hades\x64\Hades.exe /c=..\ /DirectLoadShell=true -AUTH_LOGIN=unused -AUTH_PASSWORD=5dd11ec8fe55453da0da411268df65a8 -AUTH_TYPE=exchangecode -epicapp=Min -epicenv=Prod -EpicPortal -epicusername=Zikoko -epicuserid=d28a2eadf7304ca78886fd69e416f6a4 -epiclocale=en-US
 v0.17295 05-09-2019
 Starting app: Release v0.17295
 App.Initialize
-0.90ms, CpuMultiplier: 11.12
+1.22ms, CpuMultiplier: 8.17
 [GL] OpenGLInitialize (d:\jenkins\workspace\minos_pc_latest\gsge\engine.windows\openglrenderer.cpp ln 386)
 Warning dupe subtitle for Storyteller_0128ALT: Engulfed by newfound questions and his rage, the Prince decided to confront his Lord and Master.
 Persephone... the one-time Queen of all the Underworld... where had she gone, and why? 
@@ -18,12 +18,6 @@ Unable to free: SlideAnimation pool has 1 un-freed animations
 Unable to free: ConstantAnimation pool has 14 un-freed animations
 Unable to free: ConstantAnimation pool has 14 un-freed animations
 Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\DeathAreaBedroom.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 13 un-freed animations
-Unable to free: ConstantAnimation pool has 13 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
 Opening map text: Content\Maps\RoomPreRun.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
@@ -31,66 +25,6 @@ Unable to free: ConstantAnimation pool has 14 un-freed animations
 Unable to free: ConstantAnimation pool has 14 un-freed animations
 Unable to free: DatalessAnimation pool has 3 un-freed animations
 Opening map text: Content\Maps\RoomOpening.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat02.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat05.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat24.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat09.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat10.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat07.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_MiniBoss01.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat16.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat14.map_text
-Unable to free: BookAnimation pool has 4 un-freed animations
-Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: ConstantAnimation pool has 15 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_Combat20.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
 Unable to free: ConstantAnimation pool has 15 un-freed animations
@@ -108,33 +42,279 @@ Unable to free: SlideAnimation pool has 1 un-freed animations
 Unable to free: ConstantAnimation pool has 15 un-freed animations
 Unable to free: ConstantAnimation pool has 15 un-freed animations
 Unable to free: DatalessAnimation pool has 3 un-freed animations
-Opening map text: Content\Maps\A_PreBoss01.map_text
+Opening map text: Content\Maps\A_Combat12.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
 Unable to free: ConstantAnimation pool has 15 un-freed animations
 Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat08A.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat16.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Story01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_MiniBoss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat05.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat14.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat20.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: ConstantAnimation pool has 15 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat18.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_Combat19.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_PreBoss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
 Unable to free: DatalessAnimation pool has 3 un-freed animations
 Opening map text: Content\Maps\A_Boss01.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
 Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\A_PostBoss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Intro.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Combat22.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Combat04.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Combat01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Shop01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Reprieve01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Combat02.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Combat06.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_PreBoss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_Boss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\B_PostBoss01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\C_Intro.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 3 un-freed animations
+Opening map text: Content\Maps\C_Combat13.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 4 un-freed animations
+Opening map text: Content\Maps\C_Combat03.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 4 un-freed animations
+Opening map text: Content\Maps\C_Combat14.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 4 un-freed animations
+Opening map text: Content\Maps\C_Combat05.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\C_Story01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\C_Shop01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\C_Combat11.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\C_Combat08.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\C_Combat01.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
 Opening map text: Content\Maps\DeathArea.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
 Opening map text: Content\Maps\DeathAreaBedroom.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
-Unable to free: ConstantAnimation pool has 14 un-freed animations
-Unable to free: DatalessAnimation pool has 3 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
 Opening map text: Content\Maps\RoomPreRun.map_text
 Unable to free: BookAnimation pool has 4 un-freed animations
 Unable to free: SlideAnimation pool has 1 un-freed animations
-Unable to free: ConstantAnimation pool has 16 un-freed animations
-Unable to free: ConstantAnimation pool has 16 un-freed animations
-Unable to free: DatalessAnimation pool has 4 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: ConstantAnimation pool has 20 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\RoomOpening.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat21.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat07.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat13.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat05.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat09.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_MiniBoss02.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat04.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: ConstantAnimation pool has 21 un-freed animations
+Unable to free: DatalessAnimation pool has 5 un-freed animations
+Opening map text: Content\Maps\A_Combat20.map_text
+Unable to free: BookAnimation pool has 4 un-freed animations
+Unable to free: SlideAnimation pool has 1 un-freed animations
+Unable to free: ConstantAnimation pool has 22 un-freed animations
+Unable to free: ConstantAnimation pool has 22 un-freed animations
+Unable to free: DatalessAnimation pool has 6 un-freed animations

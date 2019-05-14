@@ -5,7 +5,6 @@
   <Subtitles>true</Subtitles>
   <TwitchRefreshToken />
   <UseGamepadGlyphs>true</UseGamepadGlyphs>
-  <ValidCheckpoint>false</ValidCheckpoint>
   <X>1920</X>
   <Y>1080</Y>
 </ConfigOptions>
